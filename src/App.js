@@ -5,7 +5,7 @@ import About from "./routes/about";
 import Project from "./routes/project";
 import Contact from "./routes/contact";
 
-import {Route,Routes} from 'react-router-dom'
+import { Route,Routes } from 'react-router-dom'
 
 
 

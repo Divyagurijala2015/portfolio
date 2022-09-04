@@ -1,6 +1,6 @@
 
 import img1 from '../assests/intro1.webp'
-import img2 from  '../assests/intro2.jpg'
+// import img2 from  '../assests/intro2.jpg'
 
 const ProjectCardData = [
     {
